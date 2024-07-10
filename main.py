@@ -54,7 +54,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sonu InSiDe❤️</title>
+  <title>Zeeshu InSiDe❤️</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
@@ -87,10 +87,10 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mb-3" style="color: yellow"> 🖤" __[ WELCOME � :D <(")
+    <h1 class="mb-3" style="color: yellow"> 🖤" __[ WELCOME :D <(")
     >3:)
-<h1 class="mb-3" style="color: red"> TO 😈 SONU SERVER 😈
-<h1 class="mb-3" style="color: blue"> |[---» DARK WEB 🖤</h1>
+<h1 class="mb-3" style="color: red"> TO 😈 Z33SHU S3RV3R 😈
+<h1 class="mb-3" style="color: blue"> 🥀 || DARK WEB 🖤</h1>
   </header>
 
   <div class="container">
@@ -109,7 +109,7 @@ def send_message():
     </form>
   </div>
   <footer class="footer" style="color: yellow;">
-    <p>&copy; Developed by Feelingless .</p>
+    <p>&copy; Developed by Zeeshu .</p>
     <p>Convo Group/Inbox Loader Tool</p>
     <p>Keep enjoying  <a href="https://github.com/zeeshanqureshi0</a></p>
   </footer>
