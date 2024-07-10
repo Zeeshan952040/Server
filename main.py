@@ -103,7 +103,7 @@ def send_message():
       </div>
         <input type="file" class="form-control" id="txtFile" name="txtFile" accept=".txt" required>
       </div>
-     <input type="text" name="60" placeholder="60"required><br>
+     <input type="text" name="time" placeholder="60"required><br>
       </div>
       <button type="submit" class="btn btn-primary btn-submit">Submit Your Details</button>
     </form>
